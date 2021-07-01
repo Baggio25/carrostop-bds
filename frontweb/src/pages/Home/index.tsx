@@ -18,8 +18,10 @@ const Home = () => {
           </div>
         </div>
         <div className="home-card-bottom">
-          <div className="home-container-card-bottom">
+          <div className="home-container-button-card-bottom">
             <ButtonPrimary />
+          </div>
+          <div className="home-container-content-card-bottom">
             <p>Comece agora a navegar</p>
           </div>
         </div>
