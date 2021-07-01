@@ -29,3 +29,16 @@ a.active {
     padding-left: 88px;
   }
 }
+
+@media (min-width: 768px) {
+  .main-menu {
+    width: 400px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+  }
+
+  .menu-item-home {
+    margin-right: 0px;
+  }
+}

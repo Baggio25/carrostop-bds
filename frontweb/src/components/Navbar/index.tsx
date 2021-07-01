@@ -22,12 +22,12 @@ function Navbar() {
 
         <div className="collapse navbar-collapse" id="carrostop-navbar">
           <ul className="navbar-nav offset-md-2 main-menu">
-            <li>
+            <li className="menu-item-home">
               <a href="link" className="active">
                 Home
               </a>
             </li>
-            <li>
+            <li className="menu-item-catalogo">
               <a href="link">Catálogo</a>
             </li>
           </ul>
