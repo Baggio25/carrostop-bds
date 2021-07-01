@@ -1,10 +1,11 @@
 .main-nav {
   padding-left: 20px;
-  min-height: 70px; 
+  min-height: 70px;
 }
 
-.nav-logo-text, nav-logo-text:hover {
-  color: #00285F;
+.nav-logo-text,
+nav-logo-text:hover {
+  color: #00285f;
 }
 
 .main-menu {
@@ -15,10 +16,11 @@
 }
 
 .main-menu a {
-  color: #00285F;
+  color: #00285f;
 }
 
-.main-menu a:hover, a.active {
+.main-menu a:hover,
+a.active {
   font-weight: bold;
 }
 
@@ -27,5 +29,3 @@
     padding-left: 88px;
   }
 }
-
-

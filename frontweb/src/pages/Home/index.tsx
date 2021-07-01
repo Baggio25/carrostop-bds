@@ -1,6 +1,7 @@
 import { ReactComponent as MainImage } from '../../assets/images/carro-amarelo.svg';
 import Navbar from '../../components/Navbar';
 import './styles.css';
+import ButtonPrimary from './../../components/ButtonPrimary/index';
 
 const Home = () => {
   return (
@@ -18,6 +19,8 @@ const Home = () => {
         </div>
         <div className="home-card-bottom">
           <div className="home-container-card-bottom">
+            <ButtonPrimary />
+            <p>Comece agora a navegar</p>
           </div>
         </div>
       </div>

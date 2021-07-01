@@ -3,7 +3,7 @@ import 'bootstrap/js/src/collapse.js';
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-md navbar-dark bg-primary main-nav">
+    <nav className="navbar navbar-expand-md navbar-light bg-primary main-nav">
       <div className="container-fluid">
         <a href="link" className="nav-logo-text">
           <h4>Carros Top</h4>
