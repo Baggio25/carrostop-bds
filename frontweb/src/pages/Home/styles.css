@@ -127,3 +127,19 @@
   }
 
 }
+
+/**** 992px ****/
+@media (min-width: 992px) {
+  .home-content-container-card-top {
+    padding: 17px 258px 124px 274px;
+  }
+
+  .home-image-container-card-top {
+    padding: 82px 249px 0px 248px;
+  }
+
+  .home-image-container-card-top svg {
+    width: 90%;
+    height: auto;
+  } 
+}
