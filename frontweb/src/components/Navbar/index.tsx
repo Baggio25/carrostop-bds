@@ -27,7 +27,7 @@ function Navbar() {
                 Home
               </a>
             </li>
-            <li className="menu-item-catalogo">
+            <li className="menu-item-catalog">
               <a href="link">Catálogo</a>
             </li>
           </ul>

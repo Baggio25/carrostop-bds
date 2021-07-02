@@ -8,6 +8,10 @@ nav-logo-text:hover {
   color: #00285f;
 }
 
+.navbar-toggler {
+  border: none;
+}
+
 .main-menu {
   display: flex;
   font-size: 18px;
@@ -33,12 +37,10 @@ a.active {
 @media (min-width: 768px) {
   .main-menu {
     width: 400px;
-    display: flex;
-    flex-flow: row;
-    justify-content: space-around;
+    justify-content: flex-end;
   }
 
   .menu-item-home {
-    margin-right: 0px;
+    margin-right: 48px;
   }
 }
