@@ -129,7 +129,7 @@
 /**** 992px ****/
 @media (min-width: 992px) {
   .home-content-container-card-top {
-    padding: 17px 258px 124px 274px;
+    padding: 17px 258px 114px 274px;
   }
 
   .home-image-container-card-top {
@@ -137,7 +137,7 @@
   }
 
   .home-image-container-card-top svg {
-    width: 90%;
+    width: 80%;
     height: auto;
   }
 }
@@ -172,11 +172,17 @@
 
 
   .home-image-container-card-top {
-    padding: 83px 78px 83px 0px;
+    padding: 53px 78px 53px 0px;
   }
 
   .home-image-container-card-top svg {
     width: 450px;
+  }
+
+  .home-card-bottom {
+    padding-top: 22px;
+    padding-bottom: 21px;
+    padding-left: 85px;
   }
 
 }
