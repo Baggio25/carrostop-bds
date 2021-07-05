@@ -1,0 +1,35 @@
+.base-card {
+  background-color: #ededed;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card-top-container {
+  padding: 14px 0;
+  text-align: center;
+}
+.card-bottom-container {
+  padding: 10px 15px 15px 15px;
+}
+
+.card-bottom-container h6 {
+  text-align: center;
+  padding-bottom: 14px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.card-bottom-container p {
+  font-style: italic;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+  padding-bottom: 38px;
+}
+
+.btn-buy {
+  background-color: #00285f;
+  color: #ffffff;
+  width: 260px;
+}
