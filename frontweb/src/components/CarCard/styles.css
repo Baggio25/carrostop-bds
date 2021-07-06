@@ -43,7 +43,7 @@
   }
 
   .card-bottom-container {
-    padding: 10px 18px 0px 20px;
+    padding: 10px 15px 0px 20px;
   }
   
   .card-bottom-container h6 {
@@ -59,4 +59,36 @@
     margin-bottom: 15px;
   }
 
+}
+
+/**** 768px ****/
+@media (min-width: 768px) {
+  .card-top-container {
+    padding: 14px 64px 8px 65px;
+  }
+
+  .card-bottom-container p {
+    width: 256px;
+  }
+
+  .btn-buy {
+    width: 300px;
+    margin-bottom: 15px;
+  }
+}
+
+/**** 992px ****/
+@media (min-width: 992px) {
+  .card-top-container {
+    padding: 14px 41px 0px 40px;
+  }
+
+  .card-bottom-container p {
+    font-size: 14px;
+  }
+
+  .btn-buy {
+    width: 257px;
+    margin-bottom: 15px;
+  }
 }

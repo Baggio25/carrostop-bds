@@ -38,3 +38,26 @@
     width: 154px;
   } 
 }
+
+/**** 768px ****/
+@media (min-width: 768px) {
+  .search-container {
+    padding: 30px 20px 30px 20px;
+  }
+
+  .search-container input {
+    width: 516px;
+  }
+  
+}
+
+/**** 992px ****/
+@media (min-width: 992px) {
+  .search-container {
+    padding: 41px 0px 41px 97px;
+  }
+
+  .search-container input {
+    width: 584px;
+  }
+}
