@@ -9,6 +9,7 @@
   padding: 14px 0;
   text-align: center;
 }
+
 .card-bottom-container {
   padding: 10px 15px 15px 15px;
 }
@@ -17,6 +18,7 @@
   text-align: center;
   padding-bottom: 14px;
   font-weight: bold;
+  font-size: 21px;
   color: #000000;
 }
 
@@ -32,4 +34,29 @@
   background-color: #00285f;
   color: #ffffff;
   width: 260px;
+}
+
+/**** 576px ****/
+@media (min-width: 576px) {
+  .card-top-container {
+    padding: 8px 16px 8px 16px;
+  }
+
+  .card-bottom-container {
+    padding: 10px 18px 0px 20px;
+  }
+  
+  .card-bottom-container h6 {
+    text-align: center;
+  }
+
+  .card-bottom-container p {
+    font-size: 12px;
+  }
+  
+  .btn-buy {
+    width: 205px;
+    margin-bottom: 15px;
+  }
+
 }

@@ -23,3 +23,18 @@
   padding-left: 13px;
   color: #A7A7A7;
 }
+
+/**** 576px ****/
+@media (min-width: 576px) {
+  .search-container {
+    padding: 42px 0px 41px 20px;
+  }
+
+  .search-container input {
+    width: 320px;
+  }
+  
+  .btn-search {
+    width: 154px;
+  } 
+}
