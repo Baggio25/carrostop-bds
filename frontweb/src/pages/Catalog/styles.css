@@ -61,3 +61,14 @@
     width: 584px;
   }
 }
+
+/**** 1280px ****/
+@media (min-width: 1280px) {
+  .search-container {
+    padding: 30px 0px 30px 150px;
+  }
+
+  .search-container input {
+    width: 600px;
+  }
+}

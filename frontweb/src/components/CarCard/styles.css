@@ -92,3 +92,11 @@
     margin-bottom: 15px;
   }
 }
+
+/**** 1280px ****/
+@media (min-width: 1280px) {
+  .btn-buy {
+    width: 306px;
+    margin-bottom: 15px;
+  }
+}

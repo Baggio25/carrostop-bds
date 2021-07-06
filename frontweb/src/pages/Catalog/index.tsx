@@ -10,18 +10,31 @@ const Catalog = () => {
           <button className="btn btn-search">BUSCAR</button>
         </div>
         <div className="row">
-          <div className="col-sm-6 col-lg-4 col-xl-3">
+          <div className="col-sm-6 col-lg-4 col-xl-4 ">
             <CarCard />
           </div>
-          <div className="col-sm-6 col-lg-4 col-xl-3">
+          <div className="col-sm-6 col-lg-4 col-xl-4 ">
             <CarCard />
           </div>
-          <div className="col-sm-6 col-lg-4 col-xl-3">
+          <div className="col-sm-6 col-lg-4 col-xl-4 ">
             <CarCard />
           </div>
-          <div className="col-sm-6 col-lg-4 col-xl-3">
+          <div className="col-sm-6 col-lg-4 col-xl-4 ">
             <CarCard />
           </div>
+          <div className="col-sm-6 col-lg-4 col-xl-4 ">
+            <CarCard />
+          </div>
+          <div className="col-sm-6 col-lg-4 col-xl-4 ">
+            <CarCard />
+          </div>
+          <div className="col-sm-6 col-lg-4 col-xl-4 ">
+            <CarCard />
+          </div>
+          <div className="col-sm-6 col-lg-4 col-xl-4 ">
+            <CarCard />
+          </div>
+         
         </div>
       </div>
     </>
